@@ -47,7 +47,7 @@
 <img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/mcb-pendleton.png" />
 <img align="left" alt="USMC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_the_United_States_Marine_Corps.svg/1200px-Emblem_of_the_United_States_Marine_Corps.svg.png" />
 <p>
-<img align="left" alt="Iraq" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/iraq-flag.jpg" />
+<img align="left" alt="Iraq" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/iraq-flag.png" />
 
 
 [linkedin]: https://www.linkedin.com/in/iwaldrop/
