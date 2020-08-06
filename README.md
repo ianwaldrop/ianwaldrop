@@ -41,9 +41,7 @@
 ### Military Service
 
 <img alt="Military Awards" width="300px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/ribbons.png" />
-
-</br>
-
+<p>
 <img align="left" alt="1st Marine Regiment" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1st_Marine_Regiment_Logo.png/1200px-1st_Marine_Regiment_Logo.png" />
 <img align="left" alt="1st Marine Division" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1st_Marine_Division_insignia.svg/1200px-1st_Marine_Division_insignia.svg.png" />
 <img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/mcb-pendleton.png" />
