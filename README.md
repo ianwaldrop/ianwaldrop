@@ -42,10 +42,9 @@
 
 <img alt="Military Awards" width="300px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/ribbons.png" />
 <p>
-<img align="left" alt="Sergeant" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/media/images/e5.png" />
-<img align="left" alt="1st Marine Regiment" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/media/images/1div1mar.png" />
-<img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/media/images/mcb-pendleton.png" />
-<img align="left" alt="USMC" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/media/images/usmc.png" />
+<img align="left" alt="1st Marine Regiment" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/1div1mar.png" />
+<img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/mcb-pendleton.png" />
+<img align="left" alt="USMC" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/usmc.png" />
 <p>
 <img align="left" alt="Iraq" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/iraq-flag.png" />
 
