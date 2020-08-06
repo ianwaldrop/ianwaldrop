@@ -42,10 +42,9 @@
 
 <img alt="Military Awards" width="300px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/ribbons.png" />
 <p>
-<img align="left" alt="1st Marine Regiment" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1st_Marine_Regiment_Logo.png/1200px-1st_Marine_Regiment_Logo.png" />
-<img align="left" alt="1st Marine Division" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1st_Marine_Division_insignia.svg/1200px-1st_Marine_Division_insignia.svg.png" />
-<img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/mcb-pendleton.png" />
-<img align="left" alt="USMC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_the_United_States_Marine_Corps.svg/1200px-Emblem_of_the_United_States_Marine_Corps.svg.png" />
+<img align="left" alt="1st Marine Regiment" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/media/images/1div1mar.png" />
+<img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/media/images/mcb-pendleton.png" />
+<img align="left" alt="USMC" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/media/images/usmc.png" />
 <p>
 <img align="left" alt="Iraq" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/iraq-flag.png" />
 
