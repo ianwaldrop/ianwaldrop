@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### I'm a Father, Husband, Programmer, Veteran, Human
+### I'm a Father, Husband, Programmer, Veteran, and Human
 
 - 🔭 I’m currently working for a confidential client
 - 🌱 I’m currently learning HAM Radio and Web 3.0 stuff
@@ -72,7 +70,7 @@ DevOps
 </br></br>
 
 
-### Military Service
+### Military
 
 <img align="left" alt="Military Awards" width="100px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/ribbons.png" />
 <img align="left" alt="USMC" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/usmc.png" />
@@ -81,5 +79,3 @@ DevOps
 <img align="left" alt="1st Marine Regiment" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/1div1mar.png" />
 <img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/pendleton.png" />
 <img align="left" alt="Iraq" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/iraq-flag.png" />
-
-[linkedin]: https://www.linkedin.com/in/iwaldrop/
