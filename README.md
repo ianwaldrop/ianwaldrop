@@ -21,20 +21,20 @@
 
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> 
 
-<img align="left" alt="Rider" width="26px" src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" />
+<img align="left" alt="Rider" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/rider.jpg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<img align="left" alt="Unity" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/unity.png" />
 
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="MQTT" width="26px" src="https://www.gta.ufrj.br/ensino/eel878/redes1-2018-1/trabalhos-vf/mqtt/images/mqtt-logo.png" />
+<img align="left" alt="MQTT" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/mqtt.png" />
 
 </br>
 
@@ -45,7 +45,7 @@
 <img align="left" alt="Rifle Expert" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/rifle-expert.png" />
 <img align="left" alt="Sergeant" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/e5.png" />
 <img align="left" alt="1st Marine Regiment" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/1div1mar.png" />
-<img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/mcb-pendleton.png" />
+<img align="left" alt="MCB Camp Pendleton" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/pendleton.png" />
 <img align="left" alt="USMC" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/usmc.png" />
 <p>
 <img align="left" alt="Iraq" width="26px" src="https://github.com/ianwaldrop/ianwaldrop/blob/master/media/images/iraq-flag.png" />
