@@ -1,11 +1,10 @@
-### I'm a Father, Husband, Programmer, Veteran, and Human
+### I'm a Father, Husband, Programmer, Veteran
 
-- 🔭 I’m currently working for a confidential client
-- 🌱 I’m currently learning HAM Radio and Web 3.0 stuff
+- 🔭 I’m looking for the next job
+- 🌱 I’m prototyping some game ideas I've been building up for a while
 - 👯 I’m looking to collaborate on games, apps, and ideas!
-- 💬 Ask me about Unity3D
-- 📫 How to reach me: waldropij@gmail.com
-- ⚡ Fun fact: Terry Davis is the smartest programmer that ever lived
+- 💬 Ask me about Unity3D, games, and their systems
+- 📫 How to reach me: ian@atomater.com
 
 ### Technicals
 
