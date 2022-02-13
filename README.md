@@ -91,8 +91,6 @@ I got my first laptop in 1986, was building computers and websites in the 90s, b
 
 <img align="left" alt="Google Play Store" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/google-play.svg" />
 
-<img align="left" alt="Google Play Store" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/google-play.svg" />
-
 <img align="left" alt="Amazon App Store" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/amazon-store.svg" />
 
 <br/><br/>
