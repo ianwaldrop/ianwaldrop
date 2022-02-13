@@ -4,7 +4,7 @@
 - 🌱 I’m prototyping some game ideas I've been building up for a while
 - 👯 I’m looking to collaborate on games, apps, and ideas!
 - 💬 Ask me about Unity3D, games, and their systems
-- 📫 How to reach me: ian@atomater.com
+- 📫 How to reach me: ian@atomatar.com
 
 ### Technicals
 
