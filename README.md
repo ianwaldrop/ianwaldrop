@@ -57,7 +57,7 @@ I got my first laptop in 1986, was building computers and websites in the 90s, b
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 
-<img align="left" alt="Node-red" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/nodered.png" />
+<img align="left" alt="Node-red" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/node-red.svg" />
 
 <img align="left" alt="Gamesparks" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/gamesparks.png" />
 
