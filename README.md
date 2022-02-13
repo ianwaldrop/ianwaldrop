@@ -41,7 +41,7 @@ I got my first laptop in 1986, was building computers and websites in the 90s, b
 
 <img align="left" alt="Subversion" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg"/>
 
-<img align="left" alt="Slack" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/slack.png" />
+<img align="left" alt="Slack" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/slack.svg" />
 
 <img align="left" alt="Jira" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"/>
 
