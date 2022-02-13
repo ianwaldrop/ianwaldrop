@@ -35,9 +35,9 @@ I got my first laptop in 1986, was building computers and websites in the 90s, b
 
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/ansible.svg"/>
+
+<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 
 <img align="left" alt="Subversion" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg"/>
 
