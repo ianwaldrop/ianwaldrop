@@ -100,7 +100,7 @@ I stood on the yellow footprints on August 12, 2001, deployed to Iraq twice, and
 
 <img alt="Military Awards" width="192px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/ribbons.png" />
 
-<img align="left" alt="USMC" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/usmc.png" />
+<img align="left" alt="USMC" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/usmc.svg" />
 
 <img align="left" alt="1st Marine Regiment" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/1div1mar.png" />
 
