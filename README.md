@@ -47,26 +47,6 @@ I got my first laptop in 1986, was building computers and websites in the 90s, b
 
 <br/><br/>
 
-### Services
-
-<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
-
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-
-<img align="left" alt="mongo" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-
-<img align="left" alt="Node-red" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/node-red.svg" />
-
-<img align="left" alt="Gamesparks" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/gamesparks.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-
-<img align="left" alt="IPFS" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/ipfs.svg" />
-
-<br/><br/>
-
 ### Targets
 
 <img align="left" alt="Apple" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
@@ -78,6 +58,34 @@ I got my first laptop in 1986, was building computers and websites in the 90s, b
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
 
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+
+<br/><br/>
+
+### Services
+
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+
+<img align="left" alt="Node-red" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/node-red.svg" />
+
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+
+<img align="left" alt="Gamesparks" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/gamesparks.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+
+<img align="left" alt="IPFS" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/ipfs.svg" />
+
+<br/><br/>
+
+### Virtualization
+
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
+
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+
+<img align="left" alt="Helm" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/helm.png" />
+
+<img align="left" alt="Google Kubernetes Engine" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/gke.svg" />
 
 <br/><br/>
 
