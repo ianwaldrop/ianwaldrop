@@ -63,7 +63,7 @@ I got my first laptop in 1986, was building computers and websites in the 90s, b
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 
-<img align="left" alt="IPFS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ipfs/ipfs.png" />
+<img align="left" alt="IPFS" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/ipfs.svg" />
 
 <br/><br/>
 
