@@ -83,7 +83,7 @@ I got my first laptop in 1986, was building computers and websites in the 90s, b
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
-<img align="left" alt="Helm" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/helm.png" />
+<img align="left" alt="Helm" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/helm.svg" />
 
 <img align="left" alt="Google Kubernetes Engine" width="26px" src="https://raw.githubusercontent.com/ianwaldrop/ianwaldrop/master/media/images/gke.svg" />
 
